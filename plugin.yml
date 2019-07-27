@@ -1,0 +1,10 @@
+author: Unreal_Engine
+version: 1.4
+name: TntChatStaff
+main: fr.unreal.main.main.Main
+commands:
+  sc:
+    description: Staff Chat
+    permission: bsc.use
+  
+    
